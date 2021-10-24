@@ -1,7 +1,7 @@
 # Procedure specification
-Procedure specification
-Now that games are gradually recognized by the public, various types of games have been developed, which help people relax, and some have developed into the e-sports industry. 
-More and more people are starting to like games. We want to use this program to Understand people's understanding of games, people's views on games, and the different types of games that different players like
+In order to further reduce the cost of studying the questionnaire, the user should be reminded of the English letters represented by each option before the program runs
+After the questionnaire starts, you can only enter the English letters represented by each option. If you enter a wrong number, the system will not run and prompt the user to enter again
+When the game is over, the system will notify the user of the choice of the system. If the technology allows, compare the current user's choice with the total data in the database, so that the user can learn more about the ideas of different people.
 
 # Interactive system
 This software focuses on user surveys. By giving user questions and options, after the user answers, the system will record
