@@ -1,3 +1,5 @@
+# Program specification
+We want to do an esports questionnaire with VScode,it use to see how popular esports are.
 
 # Purpose
 Now that games are gradually recognized by the public, various kinds of games have been developed, which help people relax, and some have developed into the e-sports industry. More and more people are beginning to like games. 
@@ -26,7 +28,7 @@ Provide tips on how to get started (if you are experiencing difficulties)
 
 Colorful interactive interface
 
-# Program Specification
+# Rules for the program
 The user should be reminded of the English letters represented by each option before the program runs.
 
 After the questionnaire starts, you can only enter the English letters represented by each option. If you enter a wrong letter, the system will not run and prompt the user to enter again.
