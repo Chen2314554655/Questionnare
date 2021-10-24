@@ -1,4 +1,4 @@
-# Procedure specification
+# purpose
 In order to further reduce the cost of studying the questionnaire, the user should be reminded of the English letters represented by each option before the program runs
 After the questionnaire starts, you can only enter the English letters represented by each option. If you enter a wrong number, the system will not run and prompt the user to enter again
 
