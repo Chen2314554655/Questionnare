@@ -24,12 +24,15 @@ Any user can use the functions of the system. We would like the game to be opera
 # Functional design
 System participants:
 user
+
 Developer
 Access authority in the system:
 Developer
 Can access the entire content of the program.
+
 All program contents can be changed.
 Design and optimize program functions.
+
 user
 Enter the data the user wants
 Record the results and save them to the database
