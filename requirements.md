@@ -6,6 +6,8 @@ More and more people are starting to like games. We want to use this program to 
 # Interactive system
 This software focuses on user surveys. By giving user questions and options, after the user answers, the system will record
 
+（E.g. your favorite game category  A：MOBA game B: FPS game C: card game D: other）
+
 Save the recorded user data in the database and count the thoughts of each user
 
 
