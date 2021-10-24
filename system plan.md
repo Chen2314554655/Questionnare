@@ -3,7 +3,7 @@ In order to further reduce the cost of studying the questionnaire, the user shou
 
 After the questionnaire starts, you can only enter the English letters represented by each option. If you enter a wrong letter, the system will not run and prompt the user to enter again
 
-When the game is over, the system will notify the user of the choice of the system. If the technology allows, compare the current user's choice with the total data in the database, so that the user can learn more about the ideas of different people.
+When the program is over, the system will notify the user of the choice of the system. If the technology allows, compare the current user's choice with the total data in the database, so that the user can learn more about the ideas of different people.
 
 # 2.Project plan
 Liu Peng ChenZican. 
