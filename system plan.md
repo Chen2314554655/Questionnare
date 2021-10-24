@@ -22,14 +22,14 @@ If the software is suitable for both clients and developers, we will eventually 
 Any user can use the functions of the system. We would like the game to be operated on a computer.
 
 # Functional design
-## System participants:
+System participants:
 user
-## Developer
+Developer
 Access authority in the system:
 Developer
 Can access the entire content of the program.
 All program contents can be changed.
 Design and optimize program functions.
-## user
+user
 Enter the data the user wants
 Record the results and save them to the database
