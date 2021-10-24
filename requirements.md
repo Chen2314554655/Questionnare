@@ -1,6 +1,7 @@
 # Procedure specification
 In order to further reduce the cost of studying the questionnaire, the user should be reminded of the English letters represented by each option before the program runs
 After the questionnaire starts, you can only enter the English letters represented by each option. If you enter a wrong number, the system will not run and prompt the user to enter again
+
 When the game is over, the system will notify the user of the choice of the system. If the technology allows, compare the current user's choice with the total data in the database, so that the user can learn more about the ideas of different people.
 
 # Interactive system
