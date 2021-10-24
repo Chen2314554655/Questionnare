@@ -1,1 +1,2 @@
-
+#Procedure specification
+Now that games are gradually recognized by the public, various types of games have been developed, which help people relax, and some have developed into the e-sports industry. More and more people are starting to like games. We want to use this program to Understand people's understanding of games, people's views on games, and the different types of games that different players like
