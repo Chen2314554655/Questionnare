@@ -1,7 +1,7 @@
 # Procedure specification 
 In order to further reduce the cost of studying the questionnaire, the user should be reminded of the English letters represented by each option before the program runs
 
-After the questionnaire starts, you can only enter the English letters represented by each option. If you enter a wrong number, the system will not run and prompt the user to enter again
+After the questionnaire starts, you can only enter the English letters represented by each option. If you enter a wrong letter, the system will not run and prompt the user to enter again
 
 When the game is over, the system will notify the user of the choice of the system. If the technology allows, compare the current user's choice with the total data in the database, so that the user can learn more about the ideas of different people.
 
@@ -19,7 +19,15 @@ If the software is suitable for both clients and developers, we will eventually 
 
 # Requirements
 ## General System
-Any user can use the functions of the system. We would like the game to be operated on a computer.
+Any user can use the functions of the system. We want it to run on the web.
+## Interface Requirements:
+
+The webpage will have a clean and simple User Interface.
+Tell the user how it works.
+Can help users get the desired results
+
+## Functional Requirements:
+User can easily perform operations and get a result
 
 # Functional design
 System participants:
