@@ -18,3 +18,19 @@ body
     font-size:medium;
 }
 
+.checkbox{
+    font-size: medium;
+    border-bottom : 1px 
+
+}
+
+cheak{
+    font-size:x-large;
+    font-weight:bold;
+    text-decoration:underline; 
+
+}
+
+title{
+    font-size: large;
+}
