@@ -1,1 +1,20 @@
+.ques{
+
+    color: #34699a; 
+    font-family: impact;
+    font-size: xX-large;
+    margin-bottom:20px;
+
+}
+body
+{   background-color: rgb(224, 241, 197);
+    color: black; 
+    text-align:left;
+    line-height: normal;
+    padding-left:500px;
+}
+.container{
+    text-align:left;
+    font-size:medium;
+}
 
